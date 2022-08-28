@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank
 - 👨‍💻 I have an ardent in Ethical hacking and Cybersecurity
-- 🏢 I’m working as Intern at Persistent Sys Ltd
-- 🌱 I’m currently learning Salesforce
+- 🏢 Salesforce Developer at Persistent Sys Ltd
+- 🌱 Currently exploring DevOps
 - 📫 Contact me > Instagram | Linkedin --> https://www.instagram.com/zestrixx/ | https://www.linkedin.com/in/mayank-singh-b266a9111/
 
 <!---
